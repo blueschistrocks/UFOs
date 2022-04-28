@@ -28,7 +28,7 @@ The goal of creating an aesthetically pleasing and dynamic webpage to display th
 
 - The search field is case-sensitive; therefore, the table will not update if the user does not enter a request in the filter exactly how the data is stored in the JaveScript file.
 - The data is not linked to a current or live source.
-### Recommendations
+## Recommendations
 The following changes may improve the user's experience:
 - Use additional sources and functionality to retrieve data from current sources.
 - Create a Recent UFO News Section with articles and/or links to new UFO news.
